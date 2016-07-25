@@ -3,15 +3,15 @@ Teste em java - Robo em Marte
 
 
 - CRIAR PASTA >>   .settings 
-Inserir na mesma o arquivo
-org.eclipse.jdt.core
+- Inserir na mesma o arquivo
+- org.eclipse.jdt.core
 
 - CRIAR PASTA >> SRC
 
 DENTRO DA PASTA SCR
 
 --> CRIAR PASTA >> Common
-inserir os arquivos 
+- inserir os arquivos 
 *Coordinate.class
 *Direction.class
 
@@ -23,4 +23,4 @@ inserir os arquivos
 
 Executar o 'MAIN'
 
-## TODO O CODIGO SE ENCONTRA ZIPADO A DISPOSIÇÃO, NO GITHUB EM: https://github.com/paulovieiraa/ROBO_ZUP   COM O NOME DE PAULO_ROVERS_MARS ##
+--> TODO O CODIGO SE ENCONTRA ZIPADO A DISPOSIÇÃO, NO GITHUB EM: https://github.com/paulovieiraa/ROBO_ZUP   COM O NOME DE PAULO_ROVERS_MARS 
