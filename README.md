@@ -8,19 +8,19 @@ Teste em java - Robo em Marte
 
 - CRIAR PASTA >> SRC
 
-DENTRO DA PASTA SCR
+- DENTRO DA PASTA SCR
 
---> CRIAR PASTA >> Common
+- --> CRIAR PASTA >> Common
 - inserir os arquivos 
-*Coordinate.class
-*Direction.class
+- *Coordinate.class
+- *Direction.class
 
---> CRIAR PASTA >> Robots
-*Rover.class
+- --> CRIAR PASTA >> Robots
+- *Rover.class
 
---> CRIAR PASTA >> Core
-*Main.class
+- --> CRIAR PASTA >> Core
+- *Main.class
 
-Executar o 'MAIN'
+- Executar o 'MAIN'
 
---> TODO O CODIGO SE ENCONTRA ZIPADO A DISPOSIÇÃO, NO GITHUB EM: https://github.com/paulovieiraa/ROBO_ZUP   COM O NOME DE PAULO_ROVERS_MARS 
+- ou apenas importar o projeto do GitHub
