@@ -1,0 +1,30 @@
+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘ì¿¾şÿÿÿÿ8—ÎßàŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¥–µşÿÿÿÿ8ãÓ áŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ãÓ áŞ+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ˆ­äüÿÿÿÿ8—ÎßàŞ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(èˆË“8ãÓ áŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¦°òüÿÿÿÿ8ãÓ áŞ+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(´Ë
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÙşÀÀ8µ¤ààŞ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚û¼8ãÓ áŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ãÓ áŞ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÌï¶8ãÓ áŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦üÌùÿÿÿÿ8ãÓ áŞ+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘ì¿¾şÿÿÿÿ8—ÎßàŞ+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(º€Ùüÿÿÿÿ8ãÓ áŞ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—ÎßàŞ+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(È‡Öúÿÿÿÿ8—ÎßàŞ+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—ÎßàŞ+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œû¿Ø8—ÎßàŞ+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å³£—8ãÓ áŞ+
