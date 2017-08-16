@@ -1,0 +1,32 @@
+Um esquadrão de robôs robóticos estão a desembarcar pela NASA em um platô em Marte. Este planalto, que é curiosamente rectangular, deve ser navegado pelos rovers para que suas câmeras on-board pode obter uma visão completa do terreno circundante para enviar de volta para a Terra.
+
+Uma posição e localização do robô é representado por uma combinação de X e coordenadas y e uma letra que representa um dos quatro pontos cardeais de compasso. O planalto é dividido em uma grade para simplificar a navegação. Na exemplo posição pode ser 0, 0, N, o que significa que o rover está no canto inferior esquerdo e Norte enfrentando.
+
+A fim de controlar a Rover, NASA envia uma seqüência simples de letras. As letras possíveis são 'L', 'R' e 'M'. 'L' e 'R' faz o spin rover 90 graus para a esquerda ou direita, respectivamente, sem sair de seu local atual. meios 'M' avançar um ponto de grade, e manter a mesma posição.
+
+Suponha que a praça directamente do Norte a partir de (x, y) é (x, y + 1).
+
+ENTRADA:
+A primeira linha de entrada é as coordenadas superior direito do planalto, as coordenadas inferior esquerdo estão a ser assumida 0,0.
+
+O resto da entrada é a informação relacionada com os rovers que foram implantados. Cada rover tem duas linhas de entrada. A primeira linha dá a posição do rover, ea segunda linha é uma série de instruções que dizem ao robô como explorar o planalto.
+
+A posição é constituído por dois números inteiros e uma carta separada por espaços, que correspondem aos X e Y co-ordenadas e orientação da sonda.
+
+Cada rover será concluída sequencialmente, o que significa que o segundo rover não vai começar a se mover até que a primeira terminou em movimento.
+
+SAÍDA
+A saída para cada rover deve ser sua última coordenadas e título.
+
+ENTRADA E SAÍDA
+
+Entrada de teste:
+5 5
+1 2 N
+LMLMLMLMM
+3 3 E
+MMRMMRMRRM
+
+Resultado esperado:
+N 1 3
+5 1 E
